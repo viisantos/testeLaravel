@@ -11,6 +11,7 @@ Projeto criado para um processo seletivo de estágio.
 ### Rotas:
 - Login: http://localhost:8000/login
 - Lista de Escolas: http://localhost:8000/teste - A partir desta rota, consegue-se acessar as demais funcionalidades de CRUD e navegar pela aplicação.
+- Feito com o auxílio de alguns tutoriais e documentação.
 
  
 
