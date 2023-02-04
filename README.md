@@ -1,6 +1,6 @@
 # Teste Laravel
 
-CRUD de sistema de Escolas.
+Projeto criado para um processo seletivo de estágio.
 
 ### Configurações:
 - Servidor utilizado: Wamp64
