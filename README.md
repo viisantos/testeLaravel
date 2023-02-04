@@ -14,5 +14,10 @@ Projeto criado para um processo seletivo de estágio.
 - Feito com o auxílio de alguns tutoriais e documentação.
 - Banco de dados utilizado - MySQL no phpMyAdmin.
 
+Algumas considerações:
+enfrentei alguns problemas com as migrations. Elas produziam algumas tabelas, outras não. Em virtude disso, acabei tendo que criar algumas tabelas a partir do phpMyAdmin.
+
+A tela de login ficou com alguns problemas, apesar de o código do login fazer sentido.
+
  
 
