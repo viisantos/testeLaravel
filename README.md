@@ -17,7 +17,7 @@ Projeto criado para um processo seletivo de estágio.
 Algumas considerações:
 enfrentei alguns problemas com as migrations. Elas produziam algumas tabelas, outras não. Em virtude disso, acabei tendo que criar algumas tabelas a partir do phpMyAdmin.
 
-A tela de login ficou com alguns problemas, apesar de o código do login fazer sentido.
+A funcionalidade de login ficou com alguns problemas, apesar do código relacionado fazer sentido.
 
  
 
