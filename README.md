@@ -1,5 +1,6 @@
-# Teste Estágio Laravel
-Projeto criado para o processo seletivo de estágio.
+# Teste Laravel
+
+CRUD de sistema de Escolas.
 
 ### Configurações:
 - Servidor utilizado: Wamp64
